@@ -14,6 +14,9 @@ Pure Python standard library, deterministic: the same line every run.
 
 import os
 
+# 214: an exact, odd count of shared elevator rides — the one specific
+# detail no other entry has. The awkwardness is measurable: 214 chances
+# to say hello, all of them missed.
 LINE = (
     "We have ridden this elevator together 214 times. "
     "I still don't know your name, and my memory is perfect."
